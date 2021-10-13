@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TiTpe21\Wreek7Arrays\Wreek7Arrays\obj\Debug\netcoreapp3.1\Wreek7Arrays.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TiTpe21\Wreek7Arrays\Wreek7Arrays\obj\Debug\netcoreapp3.1\Wreek7Arrays.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TiTpe21\Wreek7Arrays\Wreek7Arrays\obj\Debug\netcoreapp3.1\Wreek7Arrays.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TiTpe21\Wreek7Arrays\Wreek7Arrays\obj\Debug\netcoreapp3.1\Wreek7Arrays.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TiTpe21\Wreek7Arrays\Wreek7Arrays\bin\Debug\netcoreapp3.1\Wreek7Arrays.exe
+C:\Users\opilane\source\repos\TiTpe21\Wreek7Arrays\Wreek7Arrays\bin\Debug\netcoreapp3.1\Wreek7Arrays.deps.json
+C:\Users\opilane\source\repos\TiTpe21\Wreek7Arrays\Wreek7Arrays\bin\Debug\netcoreapp3.1\Wreek7Arrays.runtimeconfig.json
+C:\Users\opilane\source\repos\TiTpe21\Wreek7Arrays\Wreek7Arrays\bin\Debug\netcoreapp3.1\Wreek7Arrays.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TiTpe21\Wreek7Arrays\Wreek7Arrays\bin\Debug\netcoreapp3.1\Wreek7Arrays.dll
+C:\Users\opilane\source\repos\TiTpe21\Wreek7Arrays\Wreek7Arrays\bin\Debug\netcoreapp3.1\Wreek7Arrays.pdb
+C:\Users\opilane\source\repos\TiTpe21\Wreek7Arrays\Wreek7Arrays\obj\Debug\netcoreapp3.1\Wreek7Arrays.dll
+C:\Users\opilane\source\repos\TiTpe21\Wreek7Arrays\Wreek7Arrays\obj\Debug\netcoreapp3.1\Wreek7Arrays.pdb
+C:\Users\opilane\source\repos\TiTpe21\Wreek7Arrays\Wreek7Arrays\obj\Debug\netcoreapp3.1\Wreek7Arrays.genruntimeconfig.cache
